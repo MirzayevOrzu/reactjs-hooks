@@ -1,10 +1,10 @@
-import HookCounterTwo from "./use-state/HookCounterTwo";
+import ClassCounterTwo from "./use-state/ClassCounterTwo";
 
 function App() {
     return (
         <div className="App">
             <h1>Hello React Hooks</h1>
-            <HookCounterTwo />
+            <ClassCounterTwo />
         </div>
     );
 }
